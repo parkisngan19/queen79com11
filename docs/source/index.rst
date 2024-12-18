@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Queen79 Com
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Queen79 <http://queen79.com/>`_ là một trong những cổng game bài đổi thưởng uy tín và được yêu thích nhất hiện nay tại Việt Nam. Queen79 đã nhanh chóng thu hút được sự quan tâm của đông đảo game thủ bởi sự đa dạng và phong phú của các trò chơi cũng như chất lượng dịch vụ.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Liên hệ:
 
-.. note::
+Website : http://queen79.com/
 
-   This project is under active development.
+Địa chỉ: 86 Nguyễn Thái Học – Đồng Tiến – TP. Hòa Bình
 
-Contents
---------
+Phone: 0986558412
 
-.. toctree::
+Post Code: 350000
 
-   usage
-   api
+#queen79com #queen79 #gamebaiqueen79 #queen79doithuong #nohuqueen79
