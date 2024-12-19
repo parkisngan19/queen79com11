@@ -1,11 +1,11 @@
 Queen79 Com
 ===================================
 
-`Queen79 <http://queen79.com/>`_ là một trong những cổng game bài đổi thưởng uy tín và được yêu thích nhất hiện nay tại Việt Nam. Queen79 đã nhanh chóng thu hút được sự quan tâm của đông đảo game thủ bởi sự đa dạng và phong phú của các trò chơi cũng như chất lượng dịch vụ.
+`Queen79 <https://queen79.com/>`_ là một trong những cổng game bài đổi thưởng uy tín và được yêu thích nhất hiện nay tại Việt Nam. Queen79 đã nhanh chóng thu hút được sự quan tâm của đông đảo game thủ bởi sự đa dạng và phong phú của các trò chơi cũng như chất lượng dịch vụ.
 
 Liên hệ:
 
-Website : http://queen79.com/
+Website : https://queen79.com/
 
 Địa chỉ: 86 Nguyễn Thái Học – Đồng Tiến – TP. Hòa Bình
 
